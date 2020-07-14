@@ -55,6 +55,7 @@
 * Liu et al, End-to-End Single Image Fog Removal using Enhanced Cycle Consistent Adversarial Networks. [[paper](https://arxiv.org/abs/1902.01374)][code]
 * Chen et al, Gated Context Aggregation Network for Image Dehazing and Deraining. (WACV) [[paper](https://arxiv.org/abs/1811.08747)][[code](https://github.com/cddlyf/GCANet)]
 * Ren et al, Deep Video Dehazing with Semantic Segmentation. (TIP) [[paper](https://ieeexplore.ieee.org/document/8492451)][code]
+* Jing Zhang, Dacheng Tao, FAMED-Net: A Fast and Accurate Multi-scale End-to-end Dehazing Network. (TIP) [[paper](https://arxiv.org/abs/1906.04334)][[code](https://github.com/chaimi2013/FAMED-Net)]
 
 ### 2018
 * Ren et al, Gated Fusion Network for Single Image Dehazing. (CVPR) [[paper](https://arxiv.org/abs/1804.00213)][[code](https://github.com/rwenqi/GFN-dehazing)][[web](https://sites.google.com/site/renwenqi888/research/dehazing/gfn)]
